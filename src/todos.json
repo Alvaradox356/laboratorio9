@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "carnet": "00144318",
+      "schedule": "Lunes de 9:00 a 11.00",
+      "tarde": "A tiempo"
+    },
+    {
+      "carnet": "00138218",
+      "schedule": "Lunes de 9:00 a 11.00",
+      "tarde": "Tardisimo"
+    },
+    {
+      "carnet": "00104518",
+      "schedule": "Lunes de 9:00 a 11.00",
+      "tarde": "A tiempo"
+    }
+  ]
+}
