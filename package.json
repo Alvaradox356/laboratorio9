@@ -5,13 +5,15 @@
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "homepage" : "https://alvaradox356.github.io/laboratorio9/."
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "homepage" : "https://alvaradox356.github.io/laboratorio9/."
   },
   "eslintConfig": {
     "extends": "react-app"
